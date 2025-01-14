@@ -19,18 +19,10 @@ pip install -r requirements.txt```
 
 Here's an example of how to use AI Simple:
 
-```
-import ai_simple
-
-# Initialize the model
+```import ai_simple
 model = ai_simple.Model()
-
-# Train the model
 model.train(data)
-
-# Make predictions
 predictions = model.predict(test_data)
-
 print(predictions)```
 
 ## Contributing
