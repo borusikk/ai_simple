@@ -13,7 +13,7 @@ AI Simple is a Python project focused on creating simple, easy-to-understand AI 
 To install the required packages, run:
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
 ## Usage
 
@@ -23,7 +23,7 @@ Here's an example of how to use AI Simple:
 model = ai_simple.Model()
 model.train(data)
 predictions = model.predict(test_data)
-print(predictions)```
+print(predictions)
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
